@@ -1,5 +1,5 @@
 {
-  "name": "watch_redux",
+  "name": "count_down_redux",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
